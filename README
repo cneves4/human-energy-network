@@ -1,0 +1,22 @@
+Proposal:
+For students and young professionals, the process of seeking out internship, thesis or employment opportunities is often a 
+time-intensive and painstaking exercise. Some of these individuals are seeking to explore new opportunities, let that be in a 
+specific industry, location, or type of organization (university, company, policy-making body, etc.). 
+Other students have an idea of where they want to go but struggle with getting the network to connect with someone from 
+there even to learn more or discuss an opportunity. Platforms such as LinkedIn offer only rudimentary ways of finding connections 
+via your connections, but unfortunately fail to provide the big-picture and cross-connect. 
+We face this issue in the energy sector. Recently, a few student and young professional networks in the US, EU, and other regions
+have started discussing connecting their contact databases, including student, university, startup, policy-maker, and 
+corporate contacts into a more global pool. This would allow, for example, a Brazilian student who is interested in 
+learning about the energy transition first-hand in Europe to easily identify the programs at European universities and their 
+specializations as well as connect with students who are part of this network to learn more. This would also allow for a 
+recent graduate from a fluid dynamics program in the Netherlands, interested in working on R&D in the wind sector, to quickly 
+access the wind companies in Europe and connect with members from the same network to learn more about the job opportunities 
+at those companies. The alternatives are countless hours spent with Google searching, dead-end emails, and realizations a 
+few years in the future when you say "I wish I knew this existed before!" 
+This project would be an implementation of a real idea that is currently underway. It would involve first integrating 
+the databases of contacts form 3+ such networks of 50+ people across several continents and cleaning out the data based 
+on the critical parameters. Next, it would have a visualization (map, discipline, other) that would allow for intuitive 
+searching based on certain dimensions (industry, location, type of organization). Another potential add-on could be a 
+machine learning function where a person could receive recommendations based on their profile or recent search history on 
+what could be a fitting match for them OR receive a notification when a new member joins the network who may be of interest to them.
